@@ -42,12 +42,13 @@ Desarrollar un sistema web para la administración de ventas e inventarios para 
 
 El sistema se creara por modulos, los cuales estaran distribuidos de la siguiente manera:
 
-1. ***Modulo de Usuarios:*** Permite al negocio gestionar y controlar el acceso de los usuarios al sistema POS. Este módulo es fundamental para garantizar la seguridad y la integridad de los datos del negocio, así como para evitar fraudes y errores en las transacciones. Las funcionalidades que debe incluir el módulo de usuarios son las siguientes:
-+ *Gestión de usuarios:* permite registrar a los usuarios que tienen acceso al sistema POS, con sus datos personales, roles y permisos de acceso.
-+ *Control de acceso:* permite establecer diferentes niveles de acceso para cada usuario, dependiendo de su rol y sus responsabilidades en el negocio.
-+ *Seguridad: permite* establecer medidas de seguridad para proteger los datos del negocio, como contraseñas, códigos de acceso y otros mecanismos de autenticación.
-+ *Auditoría: permite* registrar y monitorizar las acciones realizadas por cada usuario en el sistema POS, lo que facilita la detección de posibles fraudes o errores.
-+ *Personalización:* permite personalizar la interfaz del sistema POS para cada usuario, de manera que solo vea la información y las funciones relevantes para su trabajo.
+- ***Modulo de Usuarios:*** Permite al negocio gestionar y controlar el acceso de los usuarios al sistema POS. Este módulo es fundamental para garantizar la seguridad y la integridad de los datos del negocio, así como para evitar fraudes y errores en las transacciones. 
+  Las funcionalidades que debe incluir el módulo de usuarios son las siguientes:
+  + *Gestión de usuarios:* permite registrar a los usuarios que tienen acceso al sistema POS, con sus datos personales, roles y permisos de acceso.
+  + *Control de acceso:* permite establecer diferentes niveles de acceso para cada usuario, dependiendo de su rol y sus responsabilidades en el negocio.
+  + *Seguridad: permite* establecer medidas de seguridad para proteger los datos del negocio, como contraseñas, códigos de acceso y otros mecanismos de autenticación.
+  + *Auditoría: permite* registrar y monitorizar las acciones realizadas por cada usuario en el sistema POS, lo que facilita la detección de posibles fraudes o errores.
+  + *Personalización:* permite personalizar la interfaz del sistema POS para cada usuario, de manera que solo vea la información y las funciones relevantes para su trabajo.
 
 - ***Modulo de Clientes:*** Permite al negocio gestionar y mantener un registro de sus clientes. Este módulo es fundamental para mejorar la relación con los clientes, identificar oportunidades de venta y fidelización, y personalizar la experiencia de compra.
 
