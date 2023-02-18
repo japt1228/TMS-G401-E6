@@ -43,7 +43,6 @@ Desarrollar un sistema web para la administración de ventas e inventarios para 
 El sistema se creara por modulos, los cuales estaran distribuidos de la siguiente manera:
 
 1. ***Modulo de Usuarios:*** Permite al negocio gestionar y controlar el acceso de los usuarios al sistema POS. Este módulo es fundamental para garantizar la seguridad y la integridad de los datos del negocio, así como para evitar fraudes y errores en las transacciones. Las funcionalidades que debe incluir el módulo de usuarios son las siguientes:
-
 + *Gestión de usuarios:* permite registrar a los usuarios que tienen acceso al sistema POS, con sus datos personales, roles y permisos de acceso.
 + *Control de acceso:* permite establecer diferentes niveles de acceso para cada usuario, dependiendo de su rol y sus responsabilidades en el negocio.
 + *Seguridad: permite* establecer medidas de seguridad para proteger los datos del negocio, como contraseñas, códigos de acceso y otros mecanismos de autenticación.
