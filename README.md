@@ -3,10 +3,10 @@
 ## Contenido
 
 1. Planteamiento del Problema
-    1.1. Descripcion del problema
-    1.2. Por que un Sistema Pos
+    1. Descripcion del problema
+    2. Por que un Sistema Pos
 2. Requerimiento General
-    2.1. Requerimientos Especificos
+    1. Requerimientos Especificos
 
 ## Planteamiento del Problema
 
