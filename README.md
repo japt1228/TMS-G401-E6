@@ -1,4 +1,4 @@
-# Descripción del proyecto
+# Descripción del proyecto (Sistema POS)
 
 Se pretende desarrollar un sistema de punto de ventas para diferentes tipos de tiendas que manejen inventario de sus productos, tales como ferreterias, tiendas de barrio (minimercados, supermercados) entre otros.
 
