@@ -34,11 +34,11 @@ Otras de las razones por las que usar un sistema POS pueden ser:
 - ***Acceso a la información y generación de reportes 24/7:*** Un sistema POS te permite acceder a la información dondequiera que estés. Además, gracias a esta herramienta puedes obtener reportes en tiempo real del flujo de dinero, inventarios, cajas y varios aspectos de tu negocio. Mejor aún, tienes la capacidad de generar reportes históricos tan valiosos como lo son el número de ventas por vendedor, caja o sucursal, en el periodo de tiempo que tú determines, reportes que estarán a tu alcance en cualquier momento para que tomes las mejores decisiones o reacciones ante posibles imprevistos que puedan afectar tu negocio.
 
 
-## Requerimiento General
+## Objetivo General
 
 Desarrollar un sistema web para la administración de ventas e inventarios para los diferentes comercios.
 
-### Requerimientos Especificos
+### Objetivos Especificos
 
 El sistema se creara por modulos, los cuales estaran distribuidos de la siguiente manera:
 
