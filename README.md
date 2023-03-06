@@ -2,6 +2,10 @@
 
 ## Contenido
 
+### Trello
+
+[Tablero de Trello](https://trello.com/b/F7OwJxVI/sistema-pos-sport-store)
+
 ### Documento de Software del Proyecto
 
 [Documento de Software](https://github.com/japt1228/TMS-G401-E6/blob/main/Documento_de_Software.docx)
